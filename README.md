@@ -524,6 +524,7 @@ A curated directory of **312+ free, browser-based tools** from [toolz.dev](https
 - [Merge PDF](https://toolz.dev/tools/merge-pdf) - Combine multiple PDF files into a single document with drag-and-drop reordering
 - [N-Up PDF](https://toolz.dev/tools/n-up-pdf) - Arrange multiple pages on a single sheet (2-up, 4-up, 6-up, 9-up)
 - [Organize PDF](https://toolz.dev/tools/organize-pdf) - Rearrange, rotate, duplicate, and delete pages in your PDF document
+- [PDF to Text](https://onlinetoolhubs.com/tools/pdf-to-text) - Extract text from PDF pages in your browser; reports when a PDF is a scan.
 - [Posterize PDF](https://toolz.dev/tools/posterize-pdf) - Split large PDF pages into multiple smaller pages for poster printing
 - [Remove Blank Pages](https://toolz.dev/tools/remove-blank-pages) - Find and delete blank pages from a PDF by analysing what each page draws, then download the cleaned file.
 - [Reverse PDF Page Order](https://toolz.dev/tools/reverse-pdf-pages) - Reverse the order of pages in your PDF document. The last page becomes first, and the first becomes last.
